@@ -30,7 +30,7 @@ const Accordian = () => {
           data.map((dataItem) => (
             <div className="item">
               <div
-                className="titlejhjk"
+                className="titlejhjkgit "
                 onClick={
                   enableMultiSelect
                     ? () => handleEnableMultiSelection(dataItem.id)
